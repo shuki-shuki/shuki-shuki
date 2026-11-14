@@ -8,7 +8,7 @@
 - **Yosh:** 13
 - **Viloyat:** Farg'ona
 - **shahar:** Farg'ona
-
+git 
 ## Mening qiziqishlarim
 
 1. Dasturlash
@@ -38,4 +38,5 @@ yurtimiz rivojiga hissa qo'shish.
 
 **Loyiha:** Al-Xorazmiy Vorislari
 
-**Muallif:** Anvar O'ktamov
+**Muallif:** Shukurulloh Rustamov
+
